@@ -24,6 +24,19 @@ h2 {
 	font-size: 40px;
 }
 
+#links {
+  z-index: 1;
+  position: absolute;
+  top: 0;
+  padding: 20px;
+  font-size: 20;
+}
+
+#links a {
+  color: white;
+  display: block;
+}
+
 #nextMeet {
   position: absolute;
   width: 100%;
